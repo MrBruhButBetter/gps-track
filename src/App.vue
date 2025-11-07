@@ -41,7 +41,7 @@ function submitEmail() {
   <!-- Navbar -->
   <nav class="fixed top-0 left-0 w-full flex items-center justify-between p-4 sm:p-6 z-50">
     <a class="w-12 h-12 sm:w-16 sm:h-16" href="#">
-      <img src="./assets/Gps/logo.png" alt="logo" class="w-full h-full object-contain">
+      <img src="../src/assets/Gps/logo.png" alt="logo" class="w-full h-full object-contain">
     </a>
     <ul class="flex gap-6 text-white">
       <a href="#" class="text-sm sm:text-base font-bold">Info →</a>
@@ -86,7 +86,7 @@ function submitEmail() {
 
       <h1 class="flex items-center gap-1 sm:gap-2 text-white text-3xl sm:text-4xl md:text-6xl font-bold mb-6 sm:mb-10 justify-start flex-wrap">
         Comming S
-        <img class="w-12 h-12 sm:w-16 sm:h-16 md:w-20 md:h-20 inline-block" src="../src/../src/assets/Gps/AirTag1.png" alt="">
+        <img class="w-12 h-12 sm:w-16 sm:h-16 md:w-20 md:h-20 inline-block" src="../src/assets/Gps/AirTag1.png" alt="">
         <img class="w-12 h-12 sm:w-16 sm:h-16 md:w-20 md:h-20 inline-block" src="../src/assets/Gps/AirTag2.png" alt="">
         n
       </h1>
